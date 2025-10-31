@@ -1,0 +1,8 @@
+pmdarima
+statsmodels
+transformers
+torch
+streamlit
+plotly
+matplotlib
+numpy
